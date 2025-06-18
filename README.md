@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm BalavardhanReddy Vasipalli — building smart solutions where machine meets meaning. - 🚀 Always curious, always building — if you're working on something exciting in the AI or Salesforce space, let’s connect!</h1>
+<h1 align="center">🚀 Hi, I'm BalavardhanReddy Vasipalli — Always curious, always building </h1>
 <h3 align="center">🎯 A passionate AI/ML Engineer and Salesforce Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balavardhanreddy07&label=Profile%20views&color=0e75b6&style=flat" alt="balavardhanreddy07" /> </p>
