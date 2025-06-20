@@ -23,5 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BalavardhanReddy07&show_icons=true&locale=en&layout=compact" alt="BalavardhanReddy07" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balavardhanreddy07&" alt="balavardhanreddy07" /></p>
