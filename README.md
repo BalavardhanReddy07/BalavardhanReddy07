@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balavardhanreddy07" alt="balavardhanreddy07" /></a> </p>
 
-- 🌱 I’m currently learning **LangChain,Vertex AI, Generative AI , Salesforce**
+- 🌱 I’m currently learning **LangChain,Vertex AI, Generative AI, Salesforce**
 
 - 📫 How to reach me **balavardhanreddyvasipalli@gmail.com**
 
