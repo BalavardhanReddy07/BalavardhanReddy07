@@ -1,10 +1,6 @@
 <h1 align="center">🚀 Hi, I'm BalavardhanReddy Vasipalli</h1>
 <h3 align="center">🎯 A passionate AI/ML Engineer and Salesforce Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balavardhanreddy07&label=Profile%20views&color=0e75b6&style=flat" alt="balavardhanreddy07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balavardhanreddy07" alt="balavardhanreddy07" /></a> </p>
-
 - 🌱 I’m currently learning **LangChain,Vertex AI, Generative AI, Salesforce**
 
 - 📫 How to reach me **balavardhanreddyvasipalli@gmail.com**
