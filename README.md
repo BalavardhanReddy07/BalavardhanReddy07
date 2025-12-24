@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **LangChain,Vertex AI, Generative AI, Salesforce**
 
-- 📫  reach me @**balavardhanreddyvasipalli@gmail.com**
+- 📫  Reach me @**balavardhanreddyvasipalli@gmail.com**
 - 🌟 Certified in Salesforce & Google AI | Passionate about automation and innovation.
 <h2>👨🏻‍💻 Tech Stack</h2>
 
